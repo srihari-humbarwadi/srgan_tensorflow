@@ -8,7 +8,6 @@ from metrics import PSNR, SSIM
 from srgan.networks import Generator
 
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '3'
 os.environ['TF_XLA_FLAGS'] = "--tf_xla_auto_jit=2 --tf_xla_cpu_global_jit"
 
 
