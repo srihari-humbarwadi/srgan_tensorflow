@@ -5,7 +5,7 @@
 
 ##### Training on DIV2k
  - Train SRResNET using
- ```
+ ```shell
 python train_srresnet.py \
 --iterations 1000000 \
 --step_per_epoch 10000 \
@@ -16,7 +16,7 @@ python train_srresnet.py \
 --model_dir model_files
  ```
   - And then train SRGAN using
-  ```
+  ```shell
   python train_srgan.py \
 --iterations 200000 \
 --step_per_epoch 100000 \
