@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/srihari-humbarwadi/srgan_tensorflow.svg)](http://hits.dwyl.com/srihari-humbarwadi/srgan_tensorflow)
 
 
 # SRGAN
